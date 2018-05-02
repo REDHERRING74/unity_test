@@ -9,3 +9,4 @@ Library/
 *.opendb
 .vs
 *.sln
+Temp/

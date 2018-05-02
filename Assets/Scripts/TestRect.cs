@@ -5,7 +5,8 @@ using UnityEngine;
 public class TestRect : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
         Test();
 	}
 	
@@ -31,9 +32,4 @@ public class TestRect : MonoBehaviour {
         rect.Set(1, 1, 1, 1);
         Debug.Log(rect);
     }
-
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
