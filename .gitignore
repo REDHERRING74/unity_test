@@ -1,0 +1,11 @@
+Library/
+*.unityproj 
+*.swp
+*.swo 
+*.csproj
+~*
+*.sdf
+*.opensdf
+*.opendb
+.vs
+*.sln
